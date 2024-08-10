@@ -137,7 +137,8 @@ w![image](https://github.com/user-attachments/assets/6966af2d-7177-4777-b6c2-a97
 
 weather:
 
-![WhatsApp Image 2024-08-10 at 11 59 38_c3340307](https://github.com/user-attachments/assets/707808ff-5b0f-4940-a2af-91e0d54e325a)
+![image](https://github.com/user-attachments/assets/19339375-f9d7-4f7a-a7a5-6b6c21050183)
+
 
 
 ### RESULT: 
