@@ -107,6 +107,14 @@ weather:
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+employee:
+
+![image](https://github.com/user-attachments/assets/82272f96-2ab3-459f-a932-797de12756a6)
+
+weather:
+
+![image](https://github.com/user-attachments/assets/186b6d64-d415-4e81-9867-baa42bfb92d1)
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -123,5 +131,14 @@ weather:
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+employee:
+
+w![image](https://github.com/user-attachments/assets/6966af2d-7177-4777-b6c2-a97eef71acfe)
+
+weather:
+
+![WhatsApp Image 2024-08-10 at 11 59 38_c3340307](https://github.com/user-attachments/assets/707808ff-5b0f-4940-a2af-91e0d54e325a)
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
